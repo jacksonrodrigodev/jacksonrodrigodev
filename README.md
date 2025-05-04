@@ -23,7 +23,7 @@ Estou explorando novas tecnologias e tendências em:
 - Boas práticas em desenvolvimento ágil.
 
 ### 🌍 Vamos nos Conectar?
-- **LinkedIn**: [Meu Perfil](https://www.linkedin.com/in/jacksonrodrigodev)
+- **LinkedIn**: [Meu Perfil](https://www.linkedin.com/in/jackson-rodrigo-bb7539a6)
 - **Portfólio**: [jacksonrodrigodev.dev](https://jacksonrodrigodev.dev)
 - **Email**: [jacksonrodrigodev@example.com](mailto:jacksonrodrigodev@example.com)
 
