@@ -12,9 +12,9 @@ Sou um desenvolvedor sênior com mais de 5 anos de experiência em desenvolvimen
 
 ### 📁 Meus Repositórios
 Aqui estão alguns dos projetos mais relevantes:
-- **[Projeto 1](#)**: Descrição do projeto 1.
-- **[Projeto 2](#)**: Descrição do projeto 2.
-- **[Projeto 3](#)**: Descrição do projeto 3.
+- **[API Flask](https://github.com/jacksonrodrigodev/curso-flask)**: Repositorio com o material da formação de Flask da Alura.
+- **[API Django Rest](https://github.com/jacksonrodrigodev/django-rest-alura)**: Este é o repositório para o projeto de API de uma Escola feito em Django REST Framework..
+- **[Pipeline dados](https://github.com/jacksonrodrigodev/pipeline-python-mongo-mysql)**: Pipeline de dados que extrai via resquest de uma URL de Produtos e Vendas, trata os dados e carrega em CSV e no Mongo e por fim sobe no MySQL.
 
 ### 🌱 Atualmente
 Estou explorando novas tecnologias e tendências em:
